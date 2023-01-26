@@ -1,0 +1,10 @@
+.app-container{
+  /*background-color: dodgerblue;*/
+  padding-bottom: 24px;
+}
+.page-content{
+  border: 1px solid #8DA9C4;
+  background-color: #E2EBE8;
+  min-height: 240px;
+
+}

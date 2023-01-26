@@ -1,0 +1,21 @@
+.navigator{
+  background-color: #13315C;
+  display: flex;
+  padding: 4px;
+  border: 1px solid #0B2545;
+
+}
+.navigator-button{
+  margin: 0 4px;
+  color: white;
+  border: 1px solid #13315C;
+  padding: 2px 4px;
+  width: 120px;
+  text-align: center;
+  background-color: #0B2545;
+  font-size: 1.4em;
+  transition: all 1s ease;
+}
+.navigator-button:hover{
+  color: mediumvioletred;
+}
